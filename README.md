@@ -17,7 +17,7 @@
 ![Reactjs](https://img.shields.io/badge/-Reactjs-05122A?style=flat&logo=react)&nbsp;
 
 ### Technologies for Backend:
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
