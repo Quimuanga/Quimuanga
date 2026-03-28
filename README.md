@@ -18,7 +18,7 @@
 ![Angular](https://img.shields.io/badge/-Reactjs-05122A?style=flat&logo=angular)&nbsp;
 
 ### Technologies for Backend:
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
